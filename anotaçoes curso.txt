@@ -1,0 +1,21 @@
+Principais plataformas e tecnologias para desenvolvimento de jogos
+
+Engines mais famosas:
+- Unity 
+- Unreal 
+(de acordo com pesquisa da Abra Games)
+
+Onde publicar um jogo?
+Play Store (para celular)
+Steam (100 dólares por jogo)
+
+
+-------------------------------
+
+Git/GitHub
+
+Branch
+Branches são separações de código. O branch padrão do projeto é o master. Branches são usados para separar alterações grandes ou novas funcionalidades do projeto.
+
+Criar uma branch: git branch [nome da branch]
+Trocar de branch: git checkout [branch de destino]
